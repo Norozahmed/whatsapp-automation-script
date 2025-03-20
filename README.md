@@ -36,13 +36,11 @@ Before running the script, ensure you have the following:
 
 Install the required libraries using pip:
 
-
 For `tkinter`, it's usually included with Python. If not, install it using:
 
 - **Ubuntu/Debian**:
 - **Windows**: Ensure you select "tcl/tk" during Python installation.
 - **macOS**:
-
 
 ## Installation
 1.  **Clone the Repository**: If you have the code in a GitHub repository, clone it to your local machine:
@@ -50,13 +48,13 @@ For `tkinter`, it's usually included with Python. If not, install it using:
     git clone [repository_url]
     cd [repository_directory]
     ```
-2.  **Download the Script**: Alternatively, download the `wt_message.py` file directly to your local machine.
+2.  **Download the Script**: Alternatively, download the `whatsapp_automator.py` file directly to your local machine.
 
 ## Usage
 1.  **Open WhatsApp Web**: Make sure you have WhatsApp Web open and logged in on your default web browser.
 2.  **Run the Script**: Execute the Python script:
     ```
-    python wt_message.py
+    python whatsapp_automator.py
     ```
 3.  **Interact with the GUI**:
     - **Recipient/Group ID**: Enter the recipient's phone number (with country code, e.g., "+1234567890") or the group ID.
